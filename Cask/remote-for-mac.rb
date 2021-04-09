@@ -1,7 +1,7 @@
 cask 'remote-for-mac' do
-  version '9.9.11'
-  sha256 'cdd02536166c5491962fd52b013640d9e0b50c77f62b0652578e850a36db648f'
-  release = '5713'
+  version '2020.4'
+  sha256 'edbda5a9d1ccae440cc0f26b99b60d42aed299fb1f5b32b912a31b5f4c3f6aa0'
+  release = '6030'
 
   url "https://s3.amazonaws.com/remoteappz/Remote-for-Mac-#{release}.pkg.zip"
   name 'Remote for Mac'
