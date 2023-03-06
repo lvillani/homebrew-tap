@@ -1,6 +1,6 @@
 cask "chai" do
-  version "3.3.0-beta.1"
-  sha256 "2adb8ac617b00919cae8e9ebae7cedf6049e9344d0b8cdcf10e377c9bc645c57"
+  version "3.3.0"
+  sha256 "f8b32b671363634fdb9227c40d4d69c90bb3779b73ea28b6831ea7d4d0c5908f"
 
   url "https://github.com/lvillani/chai/releases/download/v#{version}/Chai-v#{version}.zip"
   name "Chai"
