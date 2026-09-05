@@ -7,7 +7,7 @@ cask "chai" do
   desc "Utility to prevent the system from going to sleep"
   homepage "https://github.com/lvillani/chai"
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
 
   app "Chai.app"
 
